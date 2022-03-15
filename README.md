@@ -1,6 +1,6 @@
 
 # Evolution symulator
-Find out what genes will dominate! Track animals and find out what about their descendants! Evolution simulator
+Evolution simulator
 <br>
 Project includes object-oriented simulation engine and GUI made using JavaFX.
 <br>
